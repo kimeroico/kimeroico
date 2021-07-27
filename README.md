@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimeroico
 - 👀 I’m interested in technology and what it can do.
-- 🌱 I’m currently learning C#/.NET CORE and React
+- 🌱 I’m currently learning C#/.NET CORE
 - 📫 How to reach me: https://www.linkedin.com/in/kimeroico/
 
 <!---
