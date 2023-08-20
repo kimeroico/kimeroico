@@ -1,18 +1,18 @@
-• 👋 Hi, I’m @kimeroico!
-• 👀 I’m interested in technology and what it can do.
-• 👨‍🎓 I’m graduated in Digital Design.
-• 👨‍💻 I worked and work with Wordpress Web Designer.
-• 🤌 I spent my time learning UX Researcher for hobby.
-• 🤝 I was introduced to programming by C#.
-• 🎰 I’m addicted to learning new things.
+• 👋 Hi, I’m @kimeroico!<br>
+• 👀 I’m interested in technology and what it can do.<br>
+• 👨‍🎓 I’m graduated in Digital Design.<br>
+• 👨‍💻 I worked and work with Wordpress Web Designer.<br>
+• 🤌 I spent my time learning UX Researcher for hobby.<br>
+• 🤝 I was introduced to programming by C#.<br>
+• 🎰 I’m addicted to learning new things.<br>
 
-• 👋 Olá, eu sou @kimeroico!
-• 👀 Me interesso em tecnologia e no que ela pode fazer.
-• 👨‍🎓 Sou formado em Design Digital.
-• 👨‍💻 Trabalhei e trabalho com Wordpress Web Designer.
-• 🤌 Passei meu tempo aprendendo UX Researcher por hobby.
-• 🤝 Fui apresentado à programação em C#.
-• 🎰 Sou viciado em aprender coisas novas.
+• 👋 Olá, eu sou @kimeroico!<br>
+• 👀 Me interesso em tecnologia e no que ela pode fazer.<br>
+• 👨‍🎓 Sou formado em Design Digital.<br>
+• 👨‍💻 Trabalhei e trabalho com Wordpress Web Designer.<br>
+• 🤌 Passei meu tempo aprendendo UX Researcher por hobby.<br>
+• 🤝 Fui apresentado à programação em C#.<br>
+• 🎰 Sou viciado em aprender coisas novas.<br>
 
 <!---
 kimeroico/kimeroico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
